@@ -1,4 +1,3 @@
-
 import java.math.BigInteger; //Untuk menggunakan BigInteger, perlu import
 public class Day29 {
     public static void main(String[] args) {
