@@ -4,6 +4,7 @@ public class Day2 {
         a = 10;
         b = 20;
         a+=b;
+        System.out.println("Jumlah : ) + a;
         
     }
     
