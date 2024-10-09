@@ -8,7 +8,7 @@ public class Day38 {
         System.out.print("Masukkan angka 2 : ");
         b = z.nextInt();
         c = a*b;
-        System.out.println(a + " + " + b + " = " + c);
+        System.out.println(a + " * " + b + " = " + c);
         System.out.println("__________________");
         int d,e,f;
         System.out.print("Masukkan angka 1 : ");
@@ -16,6 +16,6 @@ public class Day38 {
         System.out.print("Masukkan angka 2 : ");
         e = z.nextInt();
         f = d/e;
-        System.out.println(d + " - " + e + " = " + f);
+        System.out.println(d + " / " + e + " = " + f);
     }
 }
