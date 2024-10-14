@@ -18,8 +18,10 @@ public class Day41 {
         BigInteger g = new BigInteger("12345678901234567890");
         BigInteger h = f.add(g);
         BigInteger i = f.multiply(g);
+        BigInteger q = f.substract(g);
         System.out.println("Penjumlahan BigInteger\t: " + h);
         System.out.println("Perkalian BigInteger\t: " + i);
+        System.out.println("Pengurangan BigInteger\t: " + q);
         System.out.println("__________________________________________");
         Scanner in = new Scanner(System.in);
         double j,k,l,m;
