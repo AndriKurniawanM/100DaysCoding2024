@@ -105,6 +105,7 @@ public class Day51 {
             } break;
         }    
         default -> System.out.println("Bulan tidak valid");
+    } if (tanggal > 31) { System.out.println("Tanggal tidak valid");
     } 
 }
 }   
