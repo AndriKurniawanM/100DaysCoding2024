@@ -1,7 +1,7 @@
 public class Day72 {
   public static void main(String[] args) {
-    int hasil = hasil(10);
-    System.out.println(hasil);
+    int jumlah = hasil(10);
+    System.out.println(jumlah);
   }
   public static int hasil(int k) {
     if (k > 0) {
