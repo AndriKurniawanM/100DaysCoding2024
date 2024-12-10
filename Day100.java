@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Day100 {
     public static void main(String[] args) {
         Scanner z = new Scanner(System.in);
-        System.out.print("Masukkan nama\t\t: ");
+        System.out.print("Masukkan nama: ");
         String nama = z.nextLine();
         String pesan,isi,selesai;
         //Menentukan batas untuk kondisi if else
