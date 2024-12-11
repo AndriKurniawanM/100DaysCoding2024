@@ -45,9 +45,11 @@ public class Day100 {
             }
             System.out.println("|");
         }
+        
         // Garis bawah
         for (int i = 0; i < lebarKotak; i++) {
             System.out.print("=");
+            
         }
         System.out.println();
     }
